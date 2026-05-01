@@ -22,9 +22,9 @@ app = Flask(__name__)
 # TODO (Exercise 1): Replace these two placeholder strings with your actual
 # bucket names — the ones you created in Section 1.
 #
-SOURCE_BUCKET    = "YOUR-INITIALS-image-source"           # e.g. "mkm-image-source"
-PROCESSED_BUCKET = "YOUR-INITIALS-image-source-processed" # e.g. "mkm-image-source-processed"
-AWS_REGION = "us-east-1"
+SOURCE_BUCKET    = "amf-image-source"           # e.g. "mkm-image-source"
+PROCESSED_BUCKET = "amf-image-source-processed" # e.g. "mkm-image-source-processed"
+AWS_REGION = "us-east-2"
 
 # ── Routes ────────────────────────────────────────────────────────────────────
 
